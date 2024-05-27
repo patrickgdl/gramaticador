@@ -29,7 +29,7 @@ export default function Home() {
                 </Text>
               </Button>
               <Tabs.Tab value="check" icon={<IconChecks size="0.8rem" />}>
-                Checks
+                Home
               </Tabs.Tab>
               <Tabs.Tab value="settings" icon={<IconSettings size="0.8rem" />}>
                 Ajustes

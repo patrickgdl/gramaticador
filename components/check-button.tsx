@@ -25,7 +25,7 @@ export function CheckButton({
           variant="gradient"
           gradient={{ from: "#ed6ea0", to: "#ec8c69", deg: 35 }}
         >
-          Check
+          Verificar
         </Button>
       }
     />

@@ -10,7 +10,7 @@ Inspirado em [bob-plugin-openai-polisher](https://github.com/yetone/bob-plugin-o
 
 ## Instalação
 
-A extensão está em revisão na Chrome Web Store e atualmente requer download e instalação manuais.
+A extensão está em revisão na Chrome Web Store e atualmente requer download e instalação manual.
 
 1. Vá para a página de releases para baixar o arquivo [gramaticador-chrome-extension-\*.zip](https://github.com/patrickgdl/gramaticador/releases)
 2. Descompacte o arquivo gramaticador-chrome-extension-\*.zip baixado

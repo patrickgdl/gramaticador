@@ -122,7 +122,7 @@ export function PopCard({ children }: PropsWithChildren) {
               {errorMessage ? (
                 <Alert
                   icon={<IconAlertCircle size="1rem" />}
-                  title="Bummer!"
+                  title="Eita!"
                   color="red"
                 >
                   {errorMessage}
