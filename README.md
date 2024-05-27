@@ -5,6 +5,7 @@ Inspirado em [bob-plugin-openai-polisher](https://github.com/yetone/bob-plugin-o
 ## Capturas de tela
 
 ![Ajustes](https://github.com/patrickgdl/gramaticador/assets/22237558/cca73a23-9cd8-4b64-b217-2b68ba7aa2ff)
+
 ![Verificar](https://github.com/patrickgdl/gramaticador/assets/22237558/4b07f2ef-873b-477e-baa8-c1b18522fecc)
 
 ## Instalação
