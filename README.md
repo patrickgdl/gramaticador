@@ -17,4 +17,3 @@ A extensão está em revisão na Chrome Web Store e atualmente requer download e
 4. Abra o modo Desenvolvedor no canto superior direito da página Extensões
 5. Clique no botão "Importar zip" no canto superior esquerdo da página Extensões, selecione o diretório que você acabou de descompactar e conclua a instalação.
    ![Carregar descompactado](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/BzVElZpUtNE4dueVPSp3.png?auto=format&w=800)
-# gramaticador

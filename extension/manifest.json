@@ -1,0 +1,18 @@
+{
+  "name": "Gramaticador",
+  "description": "Escreva melhor agora!",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "gramaticador.png"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
